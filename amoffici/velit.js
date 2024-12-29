@@ -1,0 +1,1 @@
+accessor(_ => _, [], 'identity');
